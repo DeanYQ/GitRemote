@@ -1,3 +1,7 @@
-export class ModuleClass {
-    
+export class Module {
+
+    // rebase
+    constructor(){
+        
+    }
 }
